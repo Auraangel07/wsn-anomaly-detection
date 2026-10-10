@@ -1,0 +1,6 @@
+Fault,n,Threshold,IsoForest,RandForest
+stuck,360,0.0,0.0,0.878
+spike,10,0.7,1.0,0.7
+drift,1657,0.007,0.291,0.549
+dropout,95,1.0,0.063,0.579
+corrupt,23,1.0,1.0,1.0
